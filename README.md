@@ -1,4 +1,5 @@
-# SLR Alphabet Recognizer
+# Sign Language Alphabet Recognition In Real-Time
+
 
 This project is a sign language alphabet recognizer using Python, openCV and tensorflow for training InceptionV3 model, a convolutional neural network model for classification.
 
